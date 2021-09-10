@@ -755,6 +755,14 @@
         "swapicon": "https://cdn.discordapp.com/attachments/835221031932395520/848640150292135956/unknown.png",
         "pak": "https://cdn.discordapp.com/attachments/851039226727497728/851039256561582090/pakchunk971-WindowsClient.pak",
         "paknumber": "971"
+      },
+      {
+        "itemtype": "misc",
+        "name": "S14 Background To Blue Alien Background",
+        "icon": "https://cdn.discordapp.com/attachments/805358859069423616/885932899235414057/E4fgT5HWEBARIQa.png",
+        "swapicon": "https://cdn.discordapp.com/attachments/835221031932395520/848640150292135956/unknown.png",
+        "pak": "https://cdn.discordapp.com/attachments/885936404838908064/885936443099328532/pakchunk975-WindowsClient.pak",
+        "paknumber": "975"
       }
     ]
 }
